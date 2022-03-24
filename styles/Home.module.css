@@ -21,13 +21,6 @@
   align-items: center;
 }
 
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-}
-
 .title a {
   color: #0070f3;
   text-decoration: none;
@@ -104,7 +97,7 @@
 }
 
 .logo {
-  height: 1em;
+  height: 5em;
   margin-left: 0.5rem;
 }
 
